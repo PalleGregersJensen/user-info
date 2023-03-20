@@ -41,6 +41,15 @@ h3 {
     letter-spacing: 0.1px;
 }
 
+#userIsValid {
+display: none;
+}
+
+#userIsNotValid {
+display: none;
+}
+
+
 a {
     cursor: pointer;
     color: var(--green);
